@@ -58,6 +58,24 @@
         <mxCell id="V3tX7hwC66JUOE-WlVqu-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Promotion App" vertex="1">
           <mxGeometry height="30" width="60" x="190" y="479" as="geometry" />
         </mxCell>
+        <mxCell id="4GcSnjP6iLl2RhcJHOX1-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DIY Processor" vertex="1">
+          <mxGeometry height="30" width="60" x="630" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="4GcSnjP6iLl2RhcJHOX1-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Data Processor" vertex="1">
+          <mxGeometry height="30" width="60" x="749" y="449" as="geometry" />
+        </mxCell>
+        <mxCell id="4GcSnjP6iLl2RhcJHOX1-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="" vertex="1">
+          <mxGeometry height="60" width="30" x="60" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="4GcSnjP6iLl2RhcJHOX1-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="" vertex="1">
+          <mxGeometry height="60" width="30" x="110" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="4GcSnjP6iLl2RhcJHOX1-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="" vertex="1">
+          <mxGeometry height="60" width="30" x="10" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="4GcSnjP6iLl2RhcJHOX1-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Consumer" vertex="1">
+          <mxGeometry height="30" width="60" x="45" y="730" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
