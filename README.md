@@ -1,5 +1,6 @@
 # dataLake
 Simplified Data Lake Architecture.
+![Alt text](dl.png)
 
 # Simplified Data Lake Architecture on AWS
 
