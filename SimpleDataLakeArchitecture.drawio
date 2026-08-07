@@ -10,6 +10,11 @@
         <mxCell id="V3tX7hwC66JUOE-WlVqu-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="160" width="120" x="160" y="160" as="geometry" />
         </mxCell>
+        <mxCell id="4GcSnjP6iLl2RhcJHOX1-20" edge="1" parent="1" source="V3tX7hwC66JUOE-WlVqu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="V3tX7hwC66JUOE-WlVqu-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="160" width="120" x="160" y="360" as="geometry" />
         </mxCell>
@@ -108,6 +113,21 @@
             <mxPoint x="740" y="401" as="sourcePoint" />
             <mxPoint x="790" y="351" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4GcSnjP6iLl2RhcJHOX1-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Promotion Discount Data" vertex="1">
+          <mxGeometry height="30" width="60" x="40" y="401" as="geometry" />
+        </mxCell>
+        <mxCell id="4GcSnjP6iLl2RhcJHOX1-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Customer Data" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="408" as="geometry" />
+        </mxCell>
+        <mxCell id="4GcSnjP6iLl2RhcJHOX1-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Raw Data" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="212" as="geometry" />
+        </mxCell>
+        <mxCell id="4GcSnjP6iLl2RhcJHOX1-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Aggregated Data" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="308" as="geometry" />
+        </mxCell>
+        <mxCell id="4GcSnjP6iLl2RhcJHOX1-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Aggregated Data" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="408" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
